@@ -19,7 +19,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rrdavis22/BURGER"
+    "url": "git+git@github.com:rrdavis22/BURGER.git"
   },
   "bugs": {
     "url": "https://github.com/rrdavis22/BURGER/issues"
